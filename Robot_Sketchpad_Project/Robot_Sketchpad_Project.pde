@@ -3,7 +3,7 @@
      background (#1a47eb);
   
   fill (#89CFF0);
-  rect (400, 150, 200, 200);
+  rect (400, 150, 200, 200); // hi
  fill(#FFFFFF);
  fill(#000080);
  rect(425, 350, 150, 200);
@@ -13,8 +13,8 @@
   fill (#000000);
  rect (440, 265, 125, 75);
  fill (#ADD8E6);
- rect (250, 400, 175, 50);
- rect (575, 400, 175, 50);
+ rect (250, 400, 175, 50); // I attempted to make a robot with a football pose. The pose I tried depicting in my robot was the pose the football referees make when a field goal is declared to have been successful. 
+ rect (575, 400, 175, 50); // So, for the hands, I tried to give them a 3D look for some depth, but I also wanted the half of the arms going up to look like the goalposts themselves.
  fill (#e27602);
  circle (500, 420, 50);
  circle (500, 500, 50);
@@ -23,7 +23,7 @@
   fill (#FFFF00);
   circle (500, 500, 20);
   circle (500, 420, 20);
-  circle (500, 103, 18);
+  circle (500, 103, 18); // a yellow point on the edge of the robots nose, from which I took inspiration from Rudolph the Rednosed Reindeer, just changing the color.
   fill (#77C3EC);
   rect (250, 250, 50, 150);
   rect (700, 250, 50, 150);
